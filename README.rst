@@ -1,4 +1,4 @@
-Template for Indhi API Documentation
+Indhi Documentation
 =======================================
 
 Read the tutorial here:
