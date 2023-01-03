@@ -1,6 +1,6 @@
 Indhi Documentation
 =======================================
 
-Read the tutorial here:
+Read the documentation here:
 
 https://indhi-documentation.readthedocs.io/en/latest/
